@@ -4,24 +4,25 @@
 ![](Banner/Banner_Github.png)
 
 <p align="center">
-<a href="https://leetcode.com/Akash_Chowrasia/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/profile" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
-<a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-<a href="https://www.hackerrank.com/@chowrasia_akash1" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/profile" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/profile" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/edwinjaraofc/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://leetcode.com/u/edwinjaraofc/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
+<a href="mailto:edwinjaraofc@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.facebook.com/edwinjarafb" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/edwinjaraofc/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://discord.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <em>
-Mi nombre es Edwin Jara, estudiante del tercer año de Ingeniería Informática en la <strong>Universidad Peruana Cayetano Heredia</strong>, en Lima, Perú.
-  </em>
+## Acerca de Mí
+
+<p align="justify">
+Soy Edwin Jara, estudiante de Ingeniería Informática en la <strong>Universidad Peruana Cayetano Heredia</strong>, apasionado por el desarrollo de soluciones digitales innovadoras. Mi enfoque está en la creación de aplicaciones web, móviles y de software que integren tecnologías modernas e inteligencia artificial para resolver problemas reales y generar impacto positivo.
+
 </p>
+
+## Conjunto de Habilidades
 
 <div align="center">
-
-## My Skill Set  
 
 <table align="center" width="100%" border="0">
 <tr>
@@ -76,29 +77,58 @@ Mi nombre es Edwin Jara, estudiante del tercer año de Ingeniería Informática 
 </table>
 </div>
 
+## Mi Trayectoria Profesional
 
+- 🔭 Actualmente estoy desarrollando proyectos en **desarrollo web y móvil**.
+- 🌱 Estoy aprendiendo **React** y explorando más sobre **Inteligencia Artificial**.
+- 👯 Busco colaborar en proyectos que generen un **impacto social positivo**.
+- 🤔 Me interesa aprender más sobre **diseño de aplicaciones multiplataforma**.
+- 💬 Pregúntame sobre desarrollo web, móvil o IA. ¡Estoy feliz de ayudar si está en mis manos!
+- ⚡ Escribo ideas y soluciones en mi portafolio personal: [EdwinJaraOFC](https://edwinjaraofc.github.io/)
 
+## ⚙️ Estadísticas de GitHub
 
-<br/>  
-
-💻 Soy un **Desarrollador Multiplataforma** apasionado por crear soluciones digitales innovadoras que  tengan un impacto positivo en las personas.<br>
-🚀 Actualmente me estoy especializando en el desarrollo de aplicaciones web, móviles y de software, combinando tecnologías modernas con **inteligencia artificial** para transformar ideas en herramientas útiles.<br>
-✨ Creo firmemente en la mejora continua, y busco oportunidades para **aprender, crecer y contribuir** al desarrollo tecnológico.
-
+<p align="center">
+<a href="https://github.com/EdwinJaraOFC">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdwinJaraOFC&show_icons=true&theme=dark&count_private=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinJaraOFC&theme=dark&include_all_commits=true&count_private=true&layout=compact"/>
+</a>
 </p>
 
-<img align="right" width=300px src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong">
-
-### 🌟 ***Hablando un poco de mí...***
-
-✔ Actualmente estoy desarrollando proyectos en **desarrollo web y móvil**. <br>
-✔ Estoy aprendiendo **Flutter** y explorando más sobre **Inteligencia Artificial**. <br>
-✔ Busco colaborar en proyectos que generen un **impacto social positivo**. <br>
-✔ Me interesa aprender más sobre **diseño de aplicaciones multiplataforma**. <br>
-✔ Escribo ideas y soluciones en mi portafolio personal: [EdwinJaraOFC](https://edwinjaraofc.github.io/) <br>
-✔ Pregúntame sobre desarrollo web, móvil o IA. ¡Estoy feliz de ayudar si está en mis manos! 😊 <br>
-✔ Dato curioso: *Cuando estoy muy concentrado, mi mejor amigo es una taza de café... o dos* ☕<br>
-
-### 🌟 ***Estadísticas en GitHub***
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=EdwinJaraOFC&no-bg=true&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Colaboraciones y Proyectos
+
+### 🌟 Proyectos Destacados
+- **[Sistema de Gestión Escolar](https://github.com/EdwinJaraOFC/gestion-escolar)**  
+  Desarrollé una plataforma para gestionar estudiantes, docentes y calificaciones, utilizando **Django** y **Bootstrap**.  
+  - 🔧 **Tecnologías:** Python, Django, Bootstrap, MySQL  
+  - 💡 **Impacto:** Mejora la eficiencia en la administración escolar.
+
+- **[Aplicación de Tareas Pendientes](https://github.com/EdwinJaraOFC/tareas-app)**  
+  Creé una aplicación web para organizar y priorizar tareas diarias.  
+  - 🔧 **Tecnologías:** React, Tailwind CSS, Firebase  
+  - 💡 **Impacto:** Ayuda a los usuarios a gestionar su tiempo de manera efectiva.
+
+- **[Portfolio Personal](https://edwinjaraofc.github.io/)**  
+  Mi página personal donde muestro mi experiencia, proyectos y objetivos profesionales.  
+  - 🔧 **Tecnologías:** HTML, CSS, JavaScript  
+  - 💡 **Impacto:** Presentación profesional para conectar con colaboradores y clientes potenciales.
+
+### 🤝 Colaboraciones Actuales
+- Colaborando en proyectos de código abierto relacionados con **desarrollo web** y **aplicaciones móviles**.
+- Busco participar en iniciativas que involucren **inteligencia artificial** o **soluciones multiplataforma**.
+
+¿Tienes una idea o un proyecto en mente? **¡Estoy listo para colaborar!** 🚀
+
+## Contacto
+
+Estoy siempre abierto a colaborar en proyectos innovadores, intercambiar ideas y construir soluciones digitales. Si deseas ponerte en contacto conmigo, aquí tienes mis datos:
+
+- 📧 **Correo Electrónico:** [edwinjaraofc@gmail.com](mailto:edwinjaraofc@gmail.com)  
+- 💼 **LinkedIn:** [EdwinJaraOFC](https://www.linkedin.com/in/edwinjaraofc/)  
+- 🌐 **Portafolio:** [Mi página web](https://edwinjaraofc.github.io/)  
+
+<center><strong>¿Tienes un proyecto en mente? ¡Hablemos!</strong></center>
+
+
