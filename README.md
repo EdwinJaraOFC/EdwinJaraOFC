@@ -13,14 +13,14 @@
 <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 </p>
 
-## Acerca de Mí
+## 🌟 Acerca de Mí
 
 <p align="justify">
 Soy Edwin Jara, estudiante de Ingeniería Informática en la <strong>Universidad Peruana Cayetano Heredia</strong>, apasionado por el desarrollo de soluciones digitales innovadoras. Mi enfoque está en la creación de aplicaciones web, móviles y de software que integren tecnologías modernas e inteligencia artificial para resolver problemas reales y generar impacto positivo.
 
 </p>
 
-## Conjunto de Habilidades
+## 🛠️ Conjunto de Habilidades
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Soy Edwin Jara, estudiante de Ingeniería Informática en la <strong>Universidad
 </table>
 </div>
 
-## Mi Trayectoria Profesional
+## 🚀 Trayectoria Profesional
 
 - 🔭 Actualmente estoy desarrollando proyectos en **desarrollo web y móvil**.
 - 🌱 Estoy aprendiendo **React** y explorando más sobre **Inteligencia Artificial**.
@@ -86,7 +86,7 @@ Soy Edwin Jara, estudiante de Ingeniería Informática en la <strong>Universidad
 - 💬 Pregúntame sobre desarrollo web, móvil o IA. ¡Estoy feliz de ayudar si está en mis manos!
 - ⚡ Escribo ideas y soluciones en mi portafolio personal: [EdwinJaraOFC](https://edwinjaraofc.github.io/)
 
-## ⚙️ Estadísticas de GitHub
+## 📈 Estadísticas de GitHub
 
 <p align="center">
 <a href="https://github.com/EdwinJaraOFC">
@@ -97,38 +97,10 @@ Soy Edwin Jara, estudiante de Ingeniería Informática en la <strong>Universidad
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=EdwinJaraOFC&no-bg=true&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Colaboraciones y Proyectos
-
-### 🌟 Proyectos Destacados
-- **[Sistema de Gestión Escolar](https://github.com/EdwinJaraOFC/gestion-escolar)**  
-  Desarrollé una plataforma para gestionar estudiantes, docentes y calificaciones, utilizando **Django** y **Bootstrap**.  
-  - 🔧 **Tecnologías:** Python, Django, Bootstrap, MySQL  
-  - 💡 **Impacto:** Mejora la eficiencia en la administración escolar.
-
-- **[Aplicación de Tareas Pendientes](https://github.com/EdwinJaraOFC/tareas-app)**  
-  Creé una aplicación web para organizar y priorizar tareas diarias.  
-  - 🔧 **Tecnologías:** React, Tailwind CSS, Firebase  
-  - 💡 **Impacto:** Ayuda a los usuarios a gestionar su tiempo de manera efectiva.
-
-- **[Portfolio Personal](https://edwinjaraofc.github.io/)**  
-  Mi página personal donde muestro mi experiencia, proyectos y objetivos profesionales.  
-  - 🔧 **Tecnologías:** HTML, CSS, JavaScript  
-  - 💡 **Impacto:** Presentación profesional para conectar con colaboradores y clientes potenciales.
-
-### 🤝 Colaboraciones Actuales
-- Colaborando en proyectos de código abierto relacionados con **desarrollo web** y **aplicaciones móviles**.
-- Busco participar en iniciativas que involucren **inteligencia artificial** o **soluciones multiplataforma**.
-
-¿Tienes una idea o un proyecto en mente? **¡Estoy listo para colaborar!** 🚀
-
-## Contacto
+## 📬 Contacto
 
 Estoy siempre abierto a colaborar en proyectos innovadores, intercambiar ideas y construir soluciones digitales. Si deseas ponerte en contacto conmigo, aquí tienes mis datos:
 
 - 📧 **Correo Electrónico:** [edwinjaraofc@gmail.com](mailto:edwinjaraofc@gmail.com)  
 - 💼 **LinkedIn:** [EdwinJaraOFC](https://www.linkedin.com/in/edwinjaraofc/)  
-- 🌐 **Portafolio:** [Mi página web](https://edwinjaraofc.github.io/)  
-
-<center><strong>¿Tienes un proyecto en mente? ¡Hablemos!</strong></center>
-
-
+- 🌐 **Portafolio:** [Mi página web](https://edwinjaraofc.github.io/)
