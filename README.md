@@ -4,13 +4,13 @@
 ![](Banner/Banner_Github.png)
 
 <p align="center">
-<a href="https://www.linkedin.com/in/edwinjaraofc/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://leetcode.com/u/edwinjaraofc/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
-<a href="mailto:edwinjaraofc@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.facebook.com/edwinjarafb" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-<a href="https://www.instagram.com/edwinjaraofc/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://discord.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/edwinjaraofc/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://edwinjaraofc.github.io" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+<a href="mailto:edwinjaraofc@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://dev.to/edwinjaraofc" target="_blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/28744740/edwin-jara" target="_blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a href="https://leetcode.com/u/edwinjaraofc/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
+<a href="https://www.youtube.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 </p>
 
 ## 🌟 Acerca de Mí
@@ -20,7 +20,7 @@ Soy Edwin Jara, estudiante de Ingeniería Informática en la <strong>Universidad
 
 </p>
 
-## 🛠️ Conjunto de Habilidades
+## 👨🏻‍💻 Stack Tecnológico
 
 <div align="center">
 
@@ -95,12 +95,6 @@ Soy Edwin Jara, estudiante de Ingeniería Informática en la <strong>Universidad
 </a>
 </p>
 
+## 🏆 Trofeos de GitHub
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=EdwinJaraOFC&no-bg=true&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📬 Contacto
-
-Estoy siempre abierto a colaborar en proyectos innovadores, intercambiar ideas y construir soluciones digitales. Si deseas ponerte en contacto conmigo, aquí tienes mis datos:
-
-- 📧 **Correo Electrónico:** [edwinjaraofc@gmail.com](mailto:edwinjaraofc@gmail.com)  
-- 💼 **LinkedIn:** [EdwinJaraOFC](https://www.linkedin.com/in/edwinjaraofc/)  
-- 🌐 **Portafolio:** [Mi página web](https://edwinjaraofc.github.io/)
