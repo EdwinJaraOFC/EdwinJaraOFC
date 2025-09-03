@@ -79,7 +79,7 @@ Soy Edwin Jara, estudiante de Ingeniería Informática en la <strong>Universidad
 
 ## 🚀 Trayectoria Profesional
 
-- 🔭 Actualmente estoy desarrollando proyectos en **desarrollo web y móvil**.
+- 🔭 Actualmente estoy desarrollando varios proyectos en **desarrollo web y móvil**.
 - 🌱 Estoy aprendiendo **React** y explorando más sobre **Inteligencia Artificial**.
 - 👯 Busco colaborar en proyectos que generen un **impacto social positivo**.
 - 🤔 Me interesa aprender más sobre **diseño de aplicaciones multiplataforma**.
